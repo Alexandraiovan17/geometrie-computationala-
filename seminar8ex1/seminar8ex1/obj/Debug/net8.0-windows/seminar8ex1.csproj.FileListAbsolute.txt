@@ -1,0 +1,48 @@
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.exe
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.deps.json
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.runtimeconfig.json
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.Form1.resources
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.GenerateResource.cache
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfoInputs.cache
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfo.cs
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.CoreCompileInputs.cache
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\refint\seminar8ex1.dll
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.genruntimeconfig.cache
+C:\Users\IOVAN\source\repos\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\ref\seminar8ex1.dll
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.exe
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.deps.json
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.runtimeconfig.json
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.Form1.resources
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.GenerateResource.cache
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfoInputs.cache
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfo.cs
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.CoreCompileInputs.cache
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\refint\seminar8ex1.dll
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.genruntimeconfig.cache
+C:\Users\IOVAN\Documents\geo computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\ref\seminar8ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.exe
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.deps.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.runtimeconfig.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\bin\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.Form1.resources
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.GenerateResource.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfoInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.AssemblyInfo.cs
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.csproj.CoreCompileInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\refint\seminar8ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\seminar8ex1.genruntimeconfig.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar8ex1\seminar8ex1\obj\Debug\net8.0-windows\ref\seminar8ex1.dll

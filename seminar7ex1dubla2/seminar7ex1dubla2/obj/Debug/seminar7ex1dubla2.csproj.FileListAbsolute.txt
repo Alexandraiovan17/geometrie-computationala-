@@ -1,0 +1,10 @@
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.csprojAssemblyReference.cache
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.Form1.resources
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.Properties.Resources.resources
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.csproj.GenerateResource.cache
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\bin\Debug\seminar7ex1dubla2.exe.config
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\bin\Debug\seminar7ex1dubla2.exe
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\bin\Debug\seminar7ex1dubla2.pdb
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.exe
+C:\Users\x\Documents\geo comp\seminar7ex1dubla2\seminar7ex1dubla2\obj\Debug\seminar7ex1dubla2.pdb

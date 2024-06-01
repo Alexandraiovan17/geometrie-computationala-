@@ -1,0 +1,10 @@
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\bin\Debug\seminar8ex1bc.exe.config
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\bin\Debug\seminar8ex1bc.exe
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\bin\Debug\seminar8ex1bc.pdb
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.csprojAssemblyReference.cache
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.Form1.resources
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.Properties.Resources.resources
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.csproj.GenerateResource.cache
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.exe
+C:\Users\x\Documents\geo comp\seminar8ex1bc\seminar8ex1bc\obj\Debug\seminar8ex1bc.pdb
