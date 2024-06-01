@@ -1,0 +1,16 @@
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.Form1.resources
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.csproj.GenerateResource.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.AssemblyInfoInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.AssemblyInfo.cs
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.csproj.CoreCompileInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\bin\Debug\net8.0-windows\seminar11ex1.exe
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\bin\Debug\net8.0-windows\seminar11ex1.deps.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\bin\Debug\net8.0-windows\seminar11ex1.runtimeconfig.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\bin\Debug\net8.0-windows\seminar11ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\bin\Debug\net8.0-windows\seminar11ex1.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\refint\seminar11ex1.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\seminar11ex1.genruntimeconfig.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie Computationala\seminar11ex1\seminar11ex1\obj\Debug\net8.0-windows\ref\seminar11ex1.dll

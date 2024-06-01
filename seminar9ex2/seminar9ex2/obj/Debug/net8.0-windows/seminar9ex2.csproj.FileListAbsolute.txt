@@ -1,0 +1,16 @@
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\bin\Debug\net8.0-windows\seminar9ex2.exe
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\bin\Debug\net8.0-windows\seminar9ex2.deps.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\bin\Debug\net8.0-windows\seminar9ex2.runtimeconfig.json
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\bin\Debug\net8.0-windows\seminar9ex2.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\bin\Debug\net8.0-windows\seminar9ex2.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.Form1.resources
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.csproj.GenerateResource.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.AssemblyInfoInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.AssemblyInfo.cs
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.csproj.CoreCompileInputs.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\refint\seminar9ex2.dll
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.pdb
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\seminar9ex2.genruntimeconfig.cache
+C:\Users\IOVAN\Documents\Materiale facultate\Geometrie computationala\seminar9ex2\seminar9ex2\obj\Debug\net8.0-windows\ref\seminar9ex2.dll
