@@ -1,0 +1,10 @@
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.exe.config
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.exe
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\bin\Debug\seminar5ex1.pdb
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csprojAssemblyReference.cache
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.Form1.resources
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.Properties.Resources.resources
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csproj.GenerateResource.cache
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.exe
+C:\Users\x\Documents\geo comp\seminar5ex1\seminar5ex1\obj\Debug\seminar5ex1.pdb

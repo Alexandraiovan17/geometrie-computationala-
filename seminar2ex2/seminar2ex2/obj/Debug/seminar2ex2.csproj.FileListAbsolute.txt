@@ -1,0 +1,10 @@
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe.config
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.exe
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\bin\Debug\seminar2ex2.pdb
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csprojAssemblyReference.cache
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Form1.resources
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.Properties.Resources.resources
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.GenerateResource.cache
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.exe
+C:\Users\x\Documents\geo comp\seminar2ex2\seminar2ex2\obj\Debug\seminar2ex2.pdb
